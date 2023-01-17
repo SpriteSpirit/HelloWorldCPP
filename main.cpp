@@ -12,7 +12,7 @@
 using namespace std;
 
 int main() {
-    /*string name;
+    /**/string name;
     cout << "Enter name:";
     cin >> name;
     cout << "Hello, " << name << "\n";
@@ -32,7 +32,7 @@ int main() {
     cin >> first >> second;
 
     summary = first + second;
-    cout << "Result: " << first << " + " << second << " = " << summary << endl;*/
+    cout << "Result: " << first << " + " << second << " = " << summary << endl;
 
     // модификатор endl означает конец строки и переход на новую строку
 
