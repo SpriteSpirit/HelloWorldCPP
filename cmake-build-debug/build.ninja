@@ -55,12 +55,6 @@ build CMakeFiles/HelloWorld.dir/main.cpp.obj: CXX_COMPILER__HelloWorld_Debug C$:
   OBJECT_DIR = CMakeFiles\HelloWorld.dir
   OBJECT_FILE_DIR = CMakeFiles\HelloWorld.dir
 
-build CMakeFiles/HelloWorld.dir/main2.cpp.obj: CXX_COMPILER__HelloWorld_Debug C$:/Users/Angelina/CLionProjects/HelloWorld/main2.cpp || cmake_object_order_depends_target_HelloWorld
-  DEP_FILE = CMakeFiles\HelloWorld.dir\main2.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\HelloWorld.dir
-  OBJECT_FILE_DIR = CMakeFiles\HelloWorld.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target HelloWorld
@@ -69,7 +63,7 @@ build CMakeFiles/HelloWorld.dir/main2.cpp.obj: CXX_COMPILER__HelloWorld_Debug C$
 #############################################
 # Link the executable HelloWorld.exe
 
-build HelloWorld.exe: CXX_EXECUTABLE_LINKER__HelloWorld_Debug CMakeFiles/HelloWorld.dir/main.cpp.obj CMakeFiles/HelloWorld.dir/main2.cpp.obj
+build HelloWorld.exe: CXX_EXECUTABLE_LINKER__HelloWorld_Debug CMakeFiles/HelloWorld.dir/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\HelloWorld.dir

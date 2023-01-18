@@ -1,3 +1,8 @@
 # ninja log v5
-4	400	6956611961034482	CMakeFiles/HelloWorld.dir/main.cpp.obj	f4962790829bfb9e
-401	494	6956611961924428	HelloWorld.exe	e06bbc08ba2872f3
+3	506	6956706592564420	CMakeFiles/HelloWorld.dir/main.cpp.obj	f4962790829bfb9e
+506	603	6956706593494423	HelloWorld.exe	e06bbc08ba2872f3
+1	220	6956815697790680	build.ninja	cb90ff1050cffad1
+3	473	6956876339544021	CMakeFiles/HelloWorld.dir/main.cpp.obj	f4962790829bfb9e
+473	594	6956876340743992	HelloWorld.exe	e06bbc08ba2872f3
+4	461	6956880709116974	CMakeFiles/HelloWorld.dir/main.cpp.obj	f4962790829bfb9e
+462	577	6956880710202683	HelloWorld.exe	e06bbc08ba2872f3
